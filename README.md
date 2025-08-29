@@ -25,7 +25,6 @@ Dessa forma, garantimos:
 
 ## 🖼️ Demonstração
 
-Exemplo:  
 ![Preview](https://cdn.discordapp.com/attachments/1364568456891994177/1410806835643945091/file_00000000c53c623096b8646ba11c3d04.png?ex=68b25bc1&is=68b10a41&hm=2e9f7a2082da9d6cd7ba8be857fe7657744ce9a058c65d9e4c65e781dbac8012&)
 
 ---
